@@ -1,0 +1,31 @@
+.container{
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    border: none;
+    text-align: center;
+    box-shadow: grey 10px 10px 10px 10px;
+    padding: 20px;
+}
+.mot{
+    background-color: #f2f2f2;
+    padding: 30px;
+    border-radius: 10px;
+}
+.auth{
+    display: flex;
+    justify-content: end;
+    margin-right: 20px;
+}
+.btn{
+    padding: 20px;
+    width: 100%;
+    color: white;
+    background-color: rgb(33, 141, 191);
+    border-radius: 10px;
+    border: none;
+}
+.btn:hover{
+    transition: 0.3s;
+    font-weight: bolder;
+}
